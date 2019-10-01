@@ -1,0 +1,3 @@
+username='molyned'
+map_key = 'pk.eyJ1IjoibW9seW5lZCIsImEiOiJjanppcHc0cHkwMTdpM2RtenJncTJ1anFlIn0.dR3SV6IYSxK0VIAo3qyKuA'
+api_key='49CHdsP4ml9hVj92UPCw'
